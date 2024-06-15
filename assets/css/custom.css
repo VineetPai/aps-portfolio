@@ -1,0 +1,15 @@
+.footer-social {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer-social a {
+    margin: 0 10px;
+    color: #0077b5;
+    /* LinkedIn blue color */
+    text-decoration: none;
+}
+
+.footer-social a:hover {
+    text-decoration: underline;
+}
