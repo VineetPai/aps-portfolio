@@ -17,7 +17,7 @@
 
 This page hosts:
 
-1. Introduction
+1. <a href='#introduction'>Introduction</a>
 2. Why this Portfolio
 3. Objectives
 4. Design
@@ -26,14 +26,8 @@ This page hosts:
 
 ---
 
-## 🚀Introduction
+# 🚀Introduction
 
 The first websites were simple pages of text with maybe an image or two. Today, however, anyone with a fast enough Internet connection can watch high-definition movies or make a video call over the Internet. This is possible because of a technology called streaming.
 
-Streaming is the continuous transmission of audio or video files from a server to a client. In simpler terms, streaming is what happens when consumers watch TV or listen to podcasts on Internet-connected devices. With streaming, the media file being played on the client device is stored remotely, and is transmitted a few seconds at a time over the Internet.[1](https://www.cloudflare.com/learning/video/what-is-streaming/)
-
-<div class="footer-social">
-    <a href="https://x.com/PaiVineet" target="_blank">Twitter</a> |
-    <a href="https://www.instagram.com/vineet_v_pai/" target="_blank">Instagram</a> |
-    <a href="https://www.linkedin.com/in/vineet-pai-197103216/" target="_blank">LinkedIn</a>
-</div>
+Streaming(https://www.cloudflare.com/learning/video/what-is-streaming/) is the continuous transmission of audio or video files from a server to a client. In simpler terms, streaming is what happens when consumers watch TV or listen to podcasts on Internet-connected devices. With streaming, the media file being played on the client device is stored remotely, and is transmitted a few seconds at a time over the Internet.
