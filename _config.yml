@@ -3,3 +3,6 @@ description: Idealizing a user and business-friendly video streaming platform
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+social:
+  twitter_username: https://x.com/PaiVineet
+  linkedin_url: https://www.linkedin.com/in/vineet-pai-197103216/
