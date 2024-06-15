@@ -22,7 +22,7 @@ This page hosts:
 3. <a href='# 🎯 Objectives'>Objectives</a>
 4. <a href='# 🎨 Design'>Design</a>
 5. <a href='# 🧗‍♂️ Challenges'>Challenges</a>
-6. <a href='# 🛠️ To-Do'>To-Do</a>
+6. <a href='#To-Do'>To-Do</a>
 
 ---
 
