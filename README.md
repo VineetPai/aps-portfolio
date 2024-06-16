@@ -17,12 +17,12 @@
 
 This page hosts:
 
-1. <a href='#Introduction'>Introduction</a>
-2. <a href='#Why this Portfolio?'>Why this Portfolio</a>
-3. <a href='#Objectives'>Objectives</a>
-4. <a href='#Design'>Design</a>
-5. <a href='#Challenges'>Challenges</a>
-6. <a href='#To-Do'>To-Do</a>
+1. <a href='# Introduction'>Introduction</a>
+2. <a href='# Why this Portfolio?'>Why this Portfolio</a>
+3. <a href='# Objectives'>Objectives</a>
+4. <a href='# Design'>Design</a>
+5. <a href='# Challenges'>Challenges</a>
+6. <a href='# To-Do'>To-Do</a>
 
 ---
 
