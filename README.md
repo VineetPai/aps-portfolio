@@ -17,16 +17,16 @@
 
 This page hosts:
 
-1. <a href='#introduction'>Introduction</a>
+1. <a href='#🚀Introduction'>Introduction</a>
 2. <a href='# ❓ Why this Portfolio?'>Why this Portfolio</a>
 3. <a href='# 🎯 Objectives'>Objectives</a>
 4. <a href='# 🎨 Design'>Design</a>
 5. <a href='# 🧗‍♂️ Challenges'>Challenges</a>
-6. <a href='#To-Do'>To-Do</a>
+6. <a href='#🛠️To-Do'>To-Do</a>
 
 ---
 
-# 🚀 Introduction
+# 🚀Introduction
 
 The first websites were simple pages of text with maybe an image or two. Today, however, anyone with a fast enough Internet connection can watch high-definition movies or make a video call over the Internet. This is possible because of a technology called streaming.
 
@@ -40,4 +40,4 @@ The first websites were simple pages of text with maybe an image or two. Today, 
 
 # 🧗‍♂️ Challenges
 
-# 🛠️ To-Do
+# 🛠️To-Do
