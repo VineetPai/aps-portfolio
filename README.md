@@ -15,14 +15,23 @@
 
 #### Note:
 
-This page hosts:
+<!-- This page hosts:
 
 1. <a href='# Introduction'>Introduction</a>
 2. <a href='# Why this Portfolio?'>Why this Portfolio</a>
 3. <a href='# Objectives'>Objectives</a>
 4. <a href='# Design'>Design</a>
 5. <a href='# Challenges'>Challenges</a>
-6. <a href='# To-Do'>To-Do</a>
+6. <a href='# To-Do'>To-Do</a> -->
+
+This page hosts:
+
+1. [Introduction](#Introduction)
+2. [Why this Portfolio](#why-this-portfolio)
+3. [Objectives](#objectives)
+4. [Design](#design)
+5. [Challenges](#challenges)
+6. [To-Do](#to-do)
 
 ---
 
