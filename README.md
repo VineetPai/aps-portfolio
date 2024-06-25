@@ -43,6 +43,9 @@ The first websites were simple pages of text with maybe an image or two. Today, 
 
 # Why this Portfolio?
 
+Video streaming is becoming extreamly popular nowdays and there is no fall in watch time in near future, todays kids are getting addicted to youtube videos, shorts, tiktok, insta reels etc. All of it containing videos at core. 80% of internet by size is video content and on average [17 hours](https://www.oberlo.com/statistics/online-video-consumption-statistics) of video is streamed every week by an internet user. I personally use stream youtube videos 2-3 hours per day.
+For businesses, the potential to reach consumers via online videos is high.
+
 # Objectives
 
 # Design
