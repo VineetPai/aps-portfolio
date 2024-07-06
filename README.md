@@ -13,10 +13,10 @@
 
 **Course Name:** Algorithmic Problem Solving  
 **Course Code:** 23ECSE309  
-**Name:** Vineet Pai
+**Name:** Vineet Pai  
 **SRN:** 01FE21BCS273  
 **University:** KLE Technological University, Hubballi-31  
-**Portfolio domain:** Youtube
+**Portfolio domain:** Video streaming platform Portfolio
 
 ---
 
