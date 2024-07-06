@@ -1,10 +1,11 @@
 <!-- # Loading Video -->
 
 For a user to watch/stream video on his favorite platform his device needs to load that video from the platforms servers where it is stored.
+
 **Watching can be done is two ways**
 
-- 1 download whole video
-- 2 load in parts(streaming)
+- download whole video
+- load in parts(streaming)
 
 - Downloading the whole video has several disadvantages:
   - User has to wait until the entire video is downloaded.
@@ -39,6 +40,6 @@ It is the process of converting a video file from one format to another. This in
 It is an efficient method for data compression, minimizes total number of bits used to represent a set of data. It is a lossless compression technique, it creates a min-heap of characters based on there frequency in data.
 **Time Complexity:** O(nlog(n)), n=number of unique characters.
 **Space Complexity:** O(n)
-[Implementation](../codes/huffmanCode.py)
+[Implementation](https://github.com/VineetPai/aps-portfolio/blob/main/codes/huffmanCode.py)
 
 # Use of CDNs
