@@ -59,9 +59,12 @@ To improvise functions using algorithms and data structures
 
 # Business use cases
 
-1 [Loading video](business_use_cases/Loading_video.md)
-2 User engagement
-1 Creating domains
+1 [Loading video](business_use_cases/Loading_video.md)  
+2 Playing video
+Heap Design (Flat and Hierarchy, Transform and Conquer): Manages video buffering by prioritizing video segments for smooth playback. The heap structure ensures that the most important segments (e.g., those closest to the current playback position) are loaded first.
+Sliding Window: Handles continuous streaming and buffering by maintaining a fixed-size window over the video timeline. As the user watches the video, the window slides forward, fetching and buffering new segments to prevent interruptions.
+
+2 Creating topic domains
 2 Search results
 3 Recommendations
 4
