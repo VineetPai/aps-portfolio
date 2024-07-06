@@ -1,6 +1,6 @@
 <!-- # Video streaming platform Portfolio -->
 
-<dl>
+<!-- <dl>
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
@@ -9,7 +9,14 @@
 <dd>Vineet Pai</dd>
 <dt>University</dt>
 <dd>KLE Technological University, Hubballi-31</dd>
-</dl>
+</dl> -->
+
+**Course Name:** Algorithmic Problem Solving  
+**Course Code:** 23ECSE309  
+**Name:** Vineet Pai
+**SRN:** 01FE21BCS273  
+**University:** KLE Technological University, Hubballi-31  
+**Portfolio domain:** Youtube
 
 ---
 
