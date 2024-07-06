@@ -55,6 +55,16 @@ For businesses, the potential to reach consumers via online videos is high.
 
 # Objectives
 
+To improvise functions using algorithms and data structures
+
+# Business use cases
+
+1 Loading video
+1 Creating domains
+2 Search results
+3 Recommendations
+4
+
 # Design
 
 # Challenges
