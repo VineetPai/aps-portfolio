@@ -59,11 +59,11 @@ To improvise functions using algorithms and data structures
 
 # Business use cases
 
-1 [Loading video](business_use_cases/Loading_video.md)
-2 User engagement
-1 Creating domains
-2 Search results
-3 Recommendations
+1 [Loading video](business_use_cases/Loading_video.md). 
+2 User engagement. 
+1 Creating domains. 
+2 Search results. 
+3 Recommendations. 
 4
 
 # Design
