@@ -86,8 +86,16 @@ Heap
 **Time complexity:** O(log(n)) for getting next segment.  
 **Space complexity:** O(n)
 
-2 Search results
-3 Recommendations
+4 Search results
+Searching is one of the main feature of an video streaming platform. When user want to watch a specific video he/she searches for specific key word in the search bar. Platform should show results related to those key words.
+**Benefits:**
+Specific search results leads to more user inflow 
+
+5 Recommendations
+Search recommendations are suggestions provided by platform to help users refine or expand their search queries. These recommendations are typically based on popular searches, user's previous searches, and algorithms designed to predict what the user might be looking for.
+**Benefits:**
+Guiding user to more accurate results.  
+Improves search efficiency.
 
 2 User engagement.
 1 Creating domains.
