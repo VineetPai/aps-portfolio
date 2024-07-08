@@ -291,7 +291,6 @@ Routing the data to the user may have several ways. Platform can preconfigure th
 # 15] Handling hate speech and abuse
 
 # 16] CDN requests balancing
-
 In scenarios where a single server must handle several thousand clients, each potentially making multiple requests, deciding the order in which to serve clients becomes crucial. Several scheduling algorithms can be employed to manage this situation effectively. Each algorithm has its advantages and is suited for different types of applications and requirements.  
 ![load balancing](https://th.bing.com/th/id/OIP.kwegEO5YJg9N_G_o0RNPuQHaEA?w=334&h=180&c=7&r=0&o=5&pid=1.7)
 
@@ -300,19 +299,15 @@ In scenarios where a single server must handle several thousand clients, each po
   - limited number of servers.
 - **Benefits:**
   - Satisfied customers.
-  - low capital investment.
+  - low capital investment.  
 
 ## **Design techniques and Algorithms:**
-
 ### Round robin
-
-![round robin](https://th.bing.com/th/id/OIP.FulReOfrUJtWiOHpcfUA8QHaIN?w=148&h=180&c=7&r=0&o=5&pid=1.7)
-
+![round robin](https://th.bing.com/th/id/OIP.FulReOfrUJtWiOHpcfUA8QHaIN?w=148&h=180&c=7&r=0&o=5&pid=1.7)  
 Each request is given a fixed time slice or quantum, and requests are cycled through in a circular queue.
 
-### Weighted Fair Queuing (WFQ)
-
-![wfq](https://www.researchgate.net/profile/Mahamadou-Tembely/publication/284167017/figure/fig3/AS:297382425186340@1447912903669/Weighted-fair-queue-for-service-according-to-package-finish-time.png)  
+### Weighted Fair Queuing (WFQ)  
+![wfq](https://www.researchgate.net/profile/Mahamadou-Tembely/publication/284167017/figure/fig3/AS:297382425186340@1447912903669/Weighted-fair-queue-for-service-according-to-package-finish-time.png)    
 Each request or client is assigned a weight, and service is distributed based on these weights.  
 Platform can weight premium customer high, so that they can be served better.
 
