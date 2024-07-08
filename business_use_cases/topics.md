@@ -1,1 +1,0 @@
-Topic domains are set of related or identical videos, from a specific topic such as gaming, educational, films, music etc. Each domain can have sub-domain and sub-sub-domain and so on creating a hierarchial structure
